@@ -1,6 +1,6 @@
 #SitesChecker
-Dashboard with analysis of site population.
+Dashboard with analysis of site attendance.
 
-Need parser of time series of population (where?)
-Need big dataset to learn model
-Need error handler of re
+Need parser to get time series of site attendance, 
+need big dataset to learn model, 
+need error handler of re
